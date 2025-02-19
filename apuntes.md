@@ -1,3 +1,4 @@
 # Clase #1
 ## temas clase #2
-pun
+puntos
+$f=m/2*d$
